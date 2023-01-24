@@ -1,4 +1,11 @@
 ### Flash Card Application 
+
+#### English word
+<img src = "images/English_word.png">
+
+#### French Word
+<img src = "images/French_word.png">
+
 This project is a flash card application that enables Language learners learn a foreign language easily, fully written with python. 
 
 
